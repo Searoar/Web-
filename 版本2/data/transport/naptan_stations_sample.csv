@@ -1,7 +1,0 @@
-ATCOCode,CommonName,StopType,Latitude,Longitude,LocalityName,Notes
-9100KINGSX,Kings Cross Rail Station,rail,51.5308,-0.1238,London,NaPTAN 风格示例行；全量见 data.gov.uk NaPTAN
-9100PADTON,Paddington Rail Station,rail,51.5154,-0.1755,London,
-9100EUSTON,Euston Rail Station,rail,51.5284,-0.1337,London,
-9100EDINBUR,Edinburgh Waverley,rail,55.9521,-3.1883,Edinburgh,
-9100YORK,York Rail Station,rail,53.9580,-1.0932,York,
-9100CHSTRS,Chester Rail Station,rail,53.1967,-2.8800,Chester,
