@@ -1,0 +1,7 @@
+{
+  "generated_at_utc": "2026-04-08T07:28:17Z",
+  "note": "NaPTAN full national CSV is very large; use API URL in meta JSON for bulk download.",
+  "files": [
+    "downloads/**"
+  ]
+}
