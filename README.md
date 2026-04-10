@@ -86,7 +86,7 @@ Copy **`.env.example`** to **`.env`** and adjust values if needed.
 
 ## API documentation PDF (coursework deliverable)
 
-**Submitted API documentation (PDF):** [`API documentation.pdf`](API%20documentation.pdf)
+**Submitted API documentation (PDF):** [`API documentation.pdf`]([API%20documentation.pdf](https://github.com/Searoar/Web-/blob/main/%E6%9C%80%E7%BB%88%E7%89%88%E6%9C%AC/code/API%20documentation.pdf))
 
 The file is stored in this **`code/`** directory next to `README.md`. On **GitHub**, use the link above (or browse to **`API documentation.pdf`** in the repository). If **Minerva** requires a different URL or attachment, upload the same PDF there and keep this README line pointing to the copy graders will open (e.g. update the link to your Minerva asset or **GitHub Release** file URL).
 
